@@ -1,9 +1,17 @@
-<h1>Media Server Lab</h1>
-<h2></h2>
-<h3>I had an old computer collecting dust. After doing some research and many home labs start with. At this point, I'm not too familar with the Linux operating system, so I took it as an opportunity to get more familiar with it.  
+
+# Media Server Home Lab
+## Introduction
+
+Because I have limited technical skills, I wanted to do a technical project to learn and have something cool for myself.  The idea of creating my own self-hosted media server where I can watch TV shows or movies whereever in my home was very appealling. 
+<br>
+<br>
+I wanted to further my learning by using an unfamilar operating system to myself, Linux: Ubuntu, and using it's terminal.
+This project may have been easy for some, but this was my first home lab project. Doing this project for me was at times frustrating often hitting issues I wouldn't know at all how to resolve but it was so satisfying for me to continue to try and push through and eventually figure it out.
+
+## So it begins..
+I had an old computer collecting dust. After doing some research and many home labs start with. At this point, I'm not too familar with the Linux operating system, so I took it as an opportunity to get more familiar with it.  
   <br>
-  <br>
-  This is my first home lab project I took this opportunity to use Ubuntu operating system. This of course would have a learning curve </h3>
+  This is my first home lab project I took this opportunity to use Ubuntu operating system. This of course would have a learning curve
 <h2></h2>
 <h3>First, I used the instuctions on the Jellyfin website to use the Linux terminal to download Jellyfin</h3>
 <img src="https://i.imgur.com/hHuxMdR.png" height="80%" width="80%" />
