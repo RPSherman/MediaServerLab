@@ -12,8 +12,8 @@ This project may have been easy for some, but this was my first home lab project
 I had an old computer collecting dust. After doing some research and many home labs start with. At this point, I'm not too familar with the Linux operating system, so I took it as an opportunity to get more familiar with it.  
   <br>
   This is my first home lab project I took this opportunity to use Ubuntu operating system. This of course would have a learning curve
-<img src="https://i.imgur.com/O2tVsrh.jpeg" height="45%" width="45%" />
-<img src="https://i.imgur.com/jjH6Mz0.jpeg" height="35%" width="35%" />
+<img src="https://i.imgur.com/O2tVsrh.jpeg" height="40%" width="40%" />
+<img src="https://i.imgur.com/jjH6Mz0.jpeg" height="40%" width="40%" />
 <h2></h2>
 <h3>First, I used the instuctions on the Jellyfin website to use the Linux terminal to download Jellyfin</h3>
 <img src="https://i.imgur.com/hHuxMdR.png" height="80%" width="80%" />
