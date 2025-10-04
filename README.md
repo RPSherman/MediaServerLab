@@ -2,11 +2,13 @@
 # Media Server Home Lab
 ## Introduction
 
-Because I have limited technical skills, I wanted to do a technical project to learn and have something cool for myself.  The idea of creating my own self-hosted media server where I can watch TV shows or movies whereever in my home was very appealling. 
+I developed a self-hosted media server using Jellyfin to strengthen my technical skills and gain hands-on experience with home lab projects. My goal was to create a system that allowed me to stream TV shows and movies throughout my home while also challenging myself with new technologies.
 <br>
 <br>
-I wanted to further my learning by using an unfamilar operating system to myself, Linux: Ubuntu, and using it's terminal.
-This project may have been easy for some, but this was my first home lab project. Doing this project for me was at times frustrating often hitting issues I wouldn't know at all how to resolve but it was so satisfying for me to continue to try and push through and eventually figure it out.
+To maximize my learning, I built the server on Linux (Ubuntu) and primarily used the terminal for configuration and troubleshooting. While this was a beginner-level project for some, it was my first technical build, and it pushed me to problem-solve issues I had never encountered before.
+<br>
+<br>
+This project not only gave me practical experience with system setup and Linux commands but also reinforced my perseverance, troubleshooting skills, and ability to learn independently—key qualities I bring to IT and cybersecurity roles.
 
 ## So it begins..
 I had an old computer collecting dust. After doing some research and many home labs start with. At this point, I'm not too familar with the Linux operating system, so I took it as an opportunity to get more familiar with it.  
@@ -14,8 +16,8 @@ I had an old computer collecting dust. After doing some research and many home l
   This is my first home lab project I took this opportunity to use Ubuntu operating system. This of course would have a learning curve
 <img src="https://i.imgur.com/O2tVsrh.jpeg" height="40%" width="40%" />
 <img src="https://i.imgur.com/jjH6Mz0.jpeg" height="40%" width="40%" />
-<h2></h2>
-<h3>First, I used the instuctions on the Jellyfin website to use the Linux terminal to download Jellyfin</h3>
+<br>
+First, I used the instuctions on the Jellyfin website to use the Linux terminal to download Jellyfin<
 <img src="https://i.imgur.com/hHuxMdR.png" height="80%" width="80%" />
 <h3>It was simple enough, but I was excited that I was able to install it through Linux</h3>
 <img src="https://i.imgur.com/QFxKI26.png" height="80%" width="80%" />
